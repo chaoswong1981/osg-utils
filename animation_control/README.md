@@ -8,8 +8,9 @@
 应用方法：
 
 在场景节点 root 上，执行：
->	AnimationSetting v;
+>	AnimationSetting v; 
 >	root->accpet(v);
+
 即可
 
 完成后，左键双击执行“开”动画；右键双击执行“关”动画
